@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contextual_Menu_Android</string>
+
+    <string-array name="android_version_array">
+        <item>Kitkat</item>
+        <item>Lolipop</item>
+        <item>Marshmellow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+    </string-array>
+</resources>
